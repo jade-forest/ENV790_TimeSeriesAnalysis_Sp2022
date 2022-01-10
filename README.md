@@ -26,3 +26,6 @@ Stefan Chen
 stefan.chen@duke.edu
 
 Office hours: TBD
+
+
+Name: Jade Forest
